@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: dimgray;
+}
+
+#menu-header {
+  background-color: white;
+  padding: 10px;
+  margin: 10px 20px;
+}
+#menu-header > h1 {
+  background-color: white;
+}
+
+nav {
+  padding: 3px;
+  background-color: dimgray;
+}
+nav > a {
+  text-decoration: none;
+  color: white;
+  padding-right: 20px;
+}
+
+nav > a:hover {
+  text-decoration: underline;
+}
+
+main {
+  margin: 10px 20px;
+  padding: 10px;
+  background-color: white;
+}
+#assuntos {
+  background-color: white;
+}
+
+p {
+  background-color: white;
+}
+
+.texto-inicial {
+  background-color: dimgray;
+}
+
+footer {
+  text-align: center;
+}
+footer > p {
+  background-color: black;
+  color: white;
+  padding: 30px;
+}

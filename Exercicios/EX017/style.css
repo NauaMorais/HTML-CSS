@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+  background-image: linear-gradient(to right, #8f3c7a, #42173d);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+main {
+  background: #fff;
+  padding: 15px;
+  width: 600px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px rgba(216, 32, 32, 0.493);
+}
+p {
+  text-align: justify;
+}
+
+h1 {
+  color: rgb(112, 36, 36);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(21, 117, 121);
+}

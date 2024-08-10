@@ -1,0 +1,17 @@
+.veja-curso-completo {
+  text-align: center;
+  background-color: aqua;
+  width: 100%;
+  max-width: 300px;
+  margin: auto;
+}
+.veja-curso-completo {
+  background-color: brown;
+  margin: auto;
+  width: 100%;
+  max-width: 250px;
+  margin: auto;
+}
+body {
+  background-color: aqua;
+}

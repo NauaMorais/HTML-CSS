@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>mídias em HTML5</title>
+  </head>
+  <body>
+    <h1>imagem dinâmica</h1>
+    <p>tente abrir esse site em vários dispositivos diferentes</p>
+
+    <picture>
+      <source
+        media="(max-width: 750px)"
+        srcset="imagens/foto-pequena.jpg"
+        type="image/jpg"
+      />
+      <source
+        media="(max-width:1050px )"
+        srcset="imagens/foto-media.jpg"
+        type="image/jpg"
+      />
+      <img src="imagens/foto-grande.jpg" alt="imagem flexivel" />
+    </picture>
+    <h1>reproduzindo Áudio</h1>
+    <p>vamos aprender a reproduzir áudiso em html5</p>
+    <audio
+      src="/midia/Anitta Pedro Sampaio Dennis – Joga Pra Lua (Official Lyric Video).mp3"
+      controls
+      autoplay
+    ></audio>
+  </body>
+</html>
