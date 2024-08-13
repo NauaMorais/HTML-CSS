@@ -88,7 +88,7 @@ header a {
   background-color: rgba(0, 0, 0, 0.252);
   margin: 50px;
   width: 50%;
-  height: 500px;
+  height: 100%;
 }
 .quarto-paragrafo p {
   font-size: 53px;
@@ -99,7 +99,7 @@ header a {
 .quinto-paragrafo {
   width: 40%;
   padding-left: 40px;
-  line-height: 120px;
+  line-height: 2em;
   font-size: 70px;
 }
 
