@@ -55,14 +55,15 @@ header a {
 .segundo-paragrafo {
   background-color: rgba(0, 0, 0, 0.252);
   margin: 50px;
-  width: 50%;
-  height: 740px;
+  width: 40%;
+  height: 550px;
 }
 
 .segundo-paragrafo p {
-  font-size: 53px;
+  font-size: 43px;
   color: white;
   padding: 10px;
+  line-height: 80px;
 }
 
 .terceiro-paragrafo {
@@ -87,7 +88,7 @@ header a {
   background-color: rgba(0, 0, 0, 0.252);
   margin: 50px;
   width: 50%;
-  height: 840px;
+  height: 500px;
 }
 .quarto-paragrafo p {
   font-size: 53px;
@@ -96,7 +97,7 @@ header a {
 }
 
 .quinto-paragrafo {
-  width: 50%;
+  width: 40%;
   padding-left: 40px;
   line-height: 120px;
   font-size: 70px;
